@@ -6,14 +6,14 @@ Welcome to the Restaurant Rating Analysis project! This repository contains a co
 ---
 ##  Table of Contents
 
-- [Project Overview](#-📊-Project-Overview)
-- [Objectives](#-🧠-Objectives)
-- [Tools and Technologies](#-🛠️-Tools-&-Technologies)
-- [Dataset Description](#-📁-Dataset-Description)
-- [Data Cleaning and Transformation](#🧹-Data-Cleaning-&-Transformation)
-- [Visualizations (Power BI Dashboard)](#📈-Visualizations (Power BI Dashboard))
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Tools and Technologies](#tools-&-technologies)
+- [Dataset Description](#dataset-description)
+- [Data Cleaning and Transformation](#data-cleaning-&-transformation)
+- [Visualizations (Power BI Dashboard)](#visualizations (power bi dashboard))
 - [Understanding Power bi Dashboards](#Understanding-Power-bi-Dashboards)
-- [Key Insights](#🧩-Key-Insights)
+- [Key Insights](#key-insights)
 
 
 ## 📊 Project Overview
