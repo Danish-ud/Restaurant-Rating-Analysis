@@ -70,10 +70,23 @@ Power BI was used to create an interactive dashboard, highlighting:
 - 🔗 [`Power Bi Dashboard `](Restaurant rating.pbix)
 
 
+--------
+## Understanding Power bi Dashboards.
+
+- ![`Customer Pattern Screen shot`](https://github.com/Danish-ud/Restaurant-Rating-Analysis/blob/main/Customer%20Data%20analyze.png)
 
 
-- [`Customer Pattern`](
----
+  ### Customer data who Rated Restaurants Demographics.
+
+  - This dashboard provides key insights into consumer preferences and demographics, enabling data-driven decisions for targeted marketing and service optimization.
+
+  - Cuisine Preference: Mexican cuisine stands out as the most favored option by a significant margin, indicating a strong consumer preference for flavorful, spicy dishes. Restaurants offering high-quality Mexican food are likely to attract more customers.
+
+  - Geographic Distribution: A notable concentration of ratings comes from San Luis Potosí, suggesting that this city represents a major segment of the             restaurant's customer base. Localized promotions in this area could yield high engagement.
+
+  - Marital Status: The majority of customers are single, indicating a potential market for restaurants that cater to solo diners or casual social gatherings—ideal for young professionals and students.
+
+  - Occupation & Lifestyle: A significant portion of consumers are students and non-smokers, pointing to the need for budget-friendly, youth-oriented dining experiences in a smoke-free environment.
 
 ## 🧩 Key Insights
 
