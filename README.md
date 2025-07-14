@@ -37,7 +37,7 @@ The project consists of **5 relational tables**, which were merged to create a s
 4. **restaurant cuisines Table** – Information about restaurants, cuisine they offer.
 5. **ratings** – customer id, restaurant id, rating.
 
-- [`Data_Cleaning_Analysis.ipynb`](notebooks/Data_Cleaning_Analysis.ipynb)
+- 🔗[`Restaurant Raw Dataset`](Raw_Dataset.zip)
 ---
 
 ## 🧹 Data Cleaning & Transformation
@@ -49,6 +49,8 @@ The project consists of **5 relational tables**, which were merged to create a s
 - Merged all datasets into a single table using primary keys  like `restaurant_id` and  `Consumer_d`.
 
 All cleaning operations were performed using Python’s **Pandas** library for efficiency and reproducibility.
+
+-🔗 [`Cleaned Datase`](notebooks/Data_Cleaning_Analysis.ipynb)
 
 ---
 
