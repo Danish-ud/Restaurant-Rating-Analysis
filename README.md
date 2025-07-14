@@ -1,6 +1,7 @@
+
 # Restaurant Rating Analysis 
 
-Welcome to the Restaurant Rating Analysis project! This repository contains a comprehensive data analysis and visualization of restaurant ratings in Mexico. The primary goal of this project is to derive insights from multiple datasets related to restaurants and present them through a clean dashboard.
+Welcome to the Restaurant Rating Analysis project! This repository contains a comprehensive data analysis and visualization of restaurant ratings in Mexico. The primary goal of this project is to derive insights  from multiple datasets related to restaurants and present them through a clean dashboard.
 
 ---
 
@@ -36,16 +37,16 @@ The project consists of **5 relational tables**, which were merged to create a s
 4. **restaurant cuisines Table** – Information about restaurants, cuisine they offer.
 5. **ratings** – customer id, restaurant id, rating.
 
-After careful preprocessing, all datasets were joined using common keys to form a master table suitable for analysis.
-
+- [`Data_Cleaning_Analysis.ipynb`](notebooks/Data_Cleaning_Analysis.ipynb)
 ---
 
 ## 🧹 Data Cleaning & Transformation
 
-- Removed missing, duplicate, and inconsistent records.
-- Standardized text formats (e.g., cuisine types, city names).
+- Removed duplicate, and inconsistent data.
+- Handled missing, and Null values with at most precision.
+- Standardized the whole data set.
 - Converted numerical columns to proper data types.
-- Merged datasets using keys like `restaurant_id` and `location_id`.
+- Merged all datasets into a single table using primary keys  like `restaurant_id` and  `Consumer_d`.
 
 All cleaning operations were performed using Python’s **Pandas** library for efficiency and reproducibility.
 
