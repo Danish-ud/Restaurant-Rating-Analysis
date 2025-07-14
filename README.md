@@ -6,7 +6,7 @@ Welcome to the Restaurant Rating Analysis project! This repository contains a co
 ---
 ##  Table of Contents
 
-- [Project Overview](#project-overview)
+- [Project Overview](#🧠-project-overview)
 - [Objectives](#🧠-Objectives)
 - [Tools and Technologies](#🛠️-Tools-&-Technologies)
 - [Dataset Description](#📁-Dataset-Description)
