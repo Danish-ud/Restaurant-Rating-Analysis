@@ -47,10 +47,14 @@ The project consists of **5 relational tables**, which were merged to create a s
 - Standardized the whole data set.
 - Converted numerical columns to proper data types.
 - Merged all datasets into a single table using primary keys  like `restaurant_id` and  `Consumer_d`.
+- Finded trends in the data set by Exploratory Data Analysis
 
 All cleaning operations were performed using Python’s **Pandas** library for efficiency and reproducibility.
 
--🔗 [`Cleaned Datase`](notebooks/Data_Cleaning_Analysis.ipynb)
+-🔗 [`Cleaned Data set`](Rating_analysis.zip)
+
+-🔗 [`Jupyter Note book`](Rating.ipynb)
+
 
 ---
 
@@ -58,14 +62,17 @@ All cleaning operations were performed using Python’s **Pandas** library for e
 
 Power BI was used to create an interactive dashboard, highlighting:
 
-- Average ratings by city and cuisine
-- Top 10 and bottom 10 restaurants based on customer reviews
-- Cost vs rating distribution
-- Heatmaps of restaurant density and rating distribution
-- Filters for dynamic exploration by cuisine, city, and cost range
+- Which are the  most running restaurants.
+- What is the impact of Customers Demographoc on the Rating.
+- Which Cuisines are Rated higher.
+- Does Restaurant Facilities has an impact on the Rating.
 
-> 📌 A link to the published Power BI dashboard.
+- 🔗 [`Power Bi Dashboard `](Restaurant rating.pbix)
 
+
+
+
+- [`Customer Pattern`](
 ---
 
 ## 🧩 Key Insights
