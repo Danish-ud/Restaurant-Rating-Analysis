@@ -4,6 +4,17 @@
 Welcome to the Restaurant Rating Analysis project! This repository contains a comprehensive data analysis and visualization of restaurant ratings in Mexico. The primary goal of this project is to derive insights  from multiple datasets related to restaurants and present them through a clean dashboard.
 
 ---
+##  Table of Contents
+
+- [Project Overview](#project-overview)
+- [Objectives](#Objectives)
+- [Tools and Technologies](#Tools-&-Technologies)
+- [Dataset Description](#Dataset-Description)
+- [Data Cleaning and Transformation](#Data-Cleaning-&-Transformation)
+- [Visualizations (Power BI Dashboard)](#Visualizations (Power BI Dashboard))
+- [Understanding Power bi Dashboards](#Understanding-Power-bi-Dashboards)
+- [Key Insights](#Key-Insights)
+
 
 ## 📊 Project Overview
 
@@ -73,7 +84,7 @@ Power BI was used to create an interactive dashboard, highlighting:
 --------
 ## Understanding Power bi Dashboards.
 
-- ![`Customer Pattern Screen shot`](https://github.com/Danish-ud/Restaurant-Rating-Analysis/blob/main/Customer%20Data%20analyze.png)
+![`Customer Pattern Screen shot`](https://github.com/Danish-ud/Restaurant-Rating-Analysis/blob/main/Customer%20Data%20analyze.png)
 
 
   ### Customer data who Rated Restaurants Demographics.
@@ -88,19 +99,42 @@ Power BI was used to create an interactive dashboard, highlighting:
 
   - Occupation & Lifestyle: A significant portion of consumers are students and non-smokers, pointing to the need for budget-friendly, youth-oriented dining experiences in a smoke-free environment.
 
+---
+### Restaurant Rating Analysis
+![`Restaurant Rating Analysis`](https://github.com/Danish-ud/Restaurant-Rating-Analysis/blob/main/Rating%20analyze.png)
+
+ - Top Performing Restaurants: The chart highlights the top 5 restaurants with the highest overall ratings, offering a benchmark for quality and customer satisfaction standards.
+
+- Cuisine Quality vs. Popularity: Although Mexican cuisine is the most popular among consumers, its average food rating is comparatively low. This discrepancy suggests that while the demand is high, there is room for improvement in taste and quality. Enhancing flavor and consistency in Mexican dishes could significantly boost customer satisfaction.
+
+- Smoking Preferences: Restaurants that offer a designated smoking section tend to receive higher ratings, indicating that accommodating diverse customer preferences (without compromising non-smokers' comfort) can positively influence customer experience.
+
+- Student Demographic Ratings: The average ratings from student customers are notably lower. This may reflect unmet expectations in terms of affordability, ambiance, or service. Creating a vibrant, student-friendly environment—such as casual seating, group offers, or study-friendly spaces—can improve perception among this key segment.
+
+- Parking Facilities Impact: Restaurants that lack parking space consistently receive lower ratings. Providing adequate parking or valet services, where feasible, would enhance customer convenience and improve overall satisfaction.
+
 ## 🧩 Key Insights
 
-- Mexican restaurants in certain cities consistently scored higher.
-- Fusion and authentic Mexican cuisine tend to receive better ratings.
-- Restaurants with moderate pricing often outperform both low and high-cost counterparts in ratings.
-- Some locations have a high density of poorly rated establishments.
+### Consumer Behavior & Demographics
+- Mexican cuisine is the most preferred among consumers, but its average food rating is low — highlighting a gap between popularity and satisfaction. Improving taste and consistency can boost ratings.
+
+- San Luis Potosí emerges as the dominant city in the dataset, offering a strong local customer base for targeted promotions.
+
+- A significant portion of consumers are single and students, suggesting restaurants should tailor offerings and ambiance to attract younger, budget-conscious individuals.
+
+- Most student consumers give lower average ratings, indicating a need to improve affordability, comfort, and service quality for this group.
+
+- Non-smoking students form a large part of the customer base, reinforcing the value of a clean, smoke-free environment.
+
+### Restaurant Features & Operational Insights
+- The top 5 highest-rated restaurants set a quality benchmark — analyzing their practices can inform improvements for others.
+
+- Restaurants with a designated smoking section receive better ratings, suggesting the value of flexible seating arrangements.
+
+- Establishments that lack parking facilities tend to receive lower ratings. Offering parking or valet services could significantly enhance customer satisfaction.
+
+
 
 ---
-## 🔗 Files in This Repository
 
-- [`Data_Cleaning_Analysis.ipynb`](notebooks/Data_Cleaning_Analysis.ipynb) – Python code for cleaning and merging the datasets.
-- [`Restaurant_Analysis.pbix`](Restaurant_Analysis.pbix) – Power BI dashboard file (open with Power BI Desktop).
-- [`/screenshots`](screenshots/) – Contains visualizations from the Power BI dashboard.
-
-## 📂 Repository Structure
 
