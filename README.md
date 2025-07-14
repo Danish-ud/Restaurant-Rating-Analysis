@@ -14,7 +14,7 @@ Welcome to the Restaurant Rating Analysis project! This repository contains a co
 - [Visualizations (Power BI Dashboard)](#visualizations (power bi dashboard))
 - [Understanding Power bi Dashboards](#Understanding-Power-bi-Dashboards)
 - [Key Insights](#key-insights)
- - [Key Insights](#-🧩-Key-Insights)
+ - [Key Insights](#🧩-Key-Insights)
 
 
 
