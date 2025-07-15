@@ -16,7 +16,7 @@ Welcome to the Restaurant Rating Analysis project! This repository contains a co
 - [Key Insights](#key-insights)
 - [Key Insights](#🧩-key-insights)
 - [Key Insights](#🧩Key-Insights)
-- [Key Insights](#🧩key-insights)
+- [Key Insights](#-🧩key-insights)
 
 
 
