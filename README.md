@@ -6,10 +6,10 @@ Welcome to the Restaurant Rating Analysis project! This repository contains a co
 ---
 ##  Table of Contents
 
-- [Project Overview](#project-overview)
-- [Objectives](#objectives)
-- [Tools and Technologies](#tools-&-technologies)
-- [Dataset Description](#dataset-description)
+- [Project Overview](#Project-Overview)
+- [Objectives](#Objectives)
+- [Tools and Technologies](#Tools--Technologies)
+- [Dataset Description](#Dataset-Description)
 - [Data Cleaning and Transformation](#data-cleaning-&-transformation)
 - [Visualizations (Power BI Dashboard)](#visualizations (power bi dashboard))
 - [Understanding Power bi Dashboards](#Understanding-Power-bi-Dashboards)
@@ -20,13 +20,13 @@ Welcome to the Restaurant Rating Analysis project! This repository contains a co
 
 
 
-## 📊 Project Overview
+##  Project Overview
 
 In this project, I performed a detailed analysis of restaurant ratings using Python (Pandas) for data cleaning and transformation, and Power BI for data visualization. The datasets include various aspects of restaurants such as customer ratings, cuisines, cost, location, and service quality.
 
 ---
 
-## 🧠 Objectives
+##  Objectives
 
 - Understand rating patterns among restaurants in Mexico.
 - Identify factors influencing customer ratings (e.g., location, price range, cuisines).
@@ -34,7 +34,7 @@ In this project, I performed a detailed analysis of restaurant ratings using Pyt
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Python** – Used for data cleaning, transformation, and merging of datasets.
 - **Pandas** – For data manipulation and preprocessing.
@@ -42,7 +42,7 @@ In this project, I performed a detailed analysis of restaurant ratings using Pyt
 
 ---
 
-## 📁 Dataset Description
+##  Dataset Description
 
 The project consists of **5 relational tables**, which were merged to create a single, analysis-ready dataset. These include:
 
@@ -55,7 +55,7 @@ The project consists of **5 relational tables**, which were merged to create a s
 - 🔗[`Restaurant Raw Dataset`](Raw_Dataset.zip)
 ---
 
-## 🧹 Data Cleaning & Transformation
+##  Data Cleaning & Transformation
 
 - Removed duplicate, and inconsistent data.
 - Handled missing, and Null values with at most precision.
@@ -73,7 +73,7 @@ All cleaning operations were performed using Python’s **Pandas** library for e
 
 ---
 
-## 📈 Visualizations (Power BI Dashboard)
+##  Visualizations (Power BI Dashboard)
 
 Power BI was used to create an interactive dashboard, highlighting:
 
@@ -117,7 +117,7 @@ Power BI was used to create an interactive dashboard, highlighting:
 
 - Parking Facilities Impact: Restaurants that lack parking space consistently receive lower ratings. Providing adequate parking or valet services, where feasible, would enhance customer convenience and improve overall satisfaction.
 
-## 🧩 Key Insights
+##  Key Insights
 
 ### Consumer Behavior & Demographics
 - Mexican cuisine is the most preferred among consumers, but its average food rating is low — highlighting a gap between popularity and satisfaction. Improving taste and consistency can boost ratings.
