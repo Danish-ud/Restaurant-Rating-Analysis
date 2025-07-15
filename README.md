@@ -11,7 +11,7 @@ Welcome to the Restaurant Rating Analysis project! This repository contains a co
 - [Tools and Technologies](#Tools--Technologies)
 - [Dataset Description](#Dataset-Description)
 - [Data Cleaning and Transformation](#Data-Cleaning--Transformation)
-- [Visualizations (Power BI Dashboard)](#Visualizations(Power-bi-Dashboard))
+- [Visualizations (Power BI Dashboard)](#Visualizations)
 - [Understanding Power bi Dashboards](#Understanding-Power-bi-Dashboards)
 - [Key Insights](#Key-Insights)
 
@@ -71,7 +71,7 @@ All cleaning operations were performed using Python’s **Pandas** library for e
 
 ---
 
-##  Visualizations (Power BI Dashboard)
+##  Visualizations
 
 Power BI was used to create an interactive dashboard, highlighting:
 
